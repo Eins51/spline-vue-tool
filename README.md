@@ -6,7 +6,7 @@
 
 > A modern 3D parameter debugging tool based on Vue 3 and Spline, providing an intuitive 3D scene control experience
 
-![Demo Screenshot](screenshot.png)
+[spline-vue-tool/demo/demo.gif at master · Eins51/spline-vue-tool](https://github.com/Eins51/spline-vue-tool/blob/master/demo/demo.gif)
 
 ## ✨ Features
 
