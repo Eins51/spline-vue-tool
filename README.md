@@ -1,4 +1,4 @@
-# Spline 3D Parameter Debugging Tool
+# Spline Animation Parameter Debugging Tool
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-v3.x-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-v4.x-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
