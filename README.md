@@ -4,7 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-v4.x-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-> A modern 3D parameter debugging tool based on Vue 3 and Spline, providing an intuitive 3D scene control experience
+> A 3D parameter debugging tool based on Vue 3 and Spline, providing an intuitive 3D scene control experience
 
 ![demo](https://github.com/Eins51/spline-vue-tool/blob/master/demo/demo.gif)
 
